@@ -1,6 +1,6 @@
 Hi! I am Kevin, a Software Engineer based in Jakarta  
 
-I work in DANA, an e-wallet provider in Indonesia as an iOS Engineer. For more information about me, check out my [website](http://kevinyulias.herokuapp.com)
+I work at DANA, an e-wallet provider in Indonesia as an iOS Engineer. For more information about me, check out my [website](http://kevinyulias.herokuapp.com)
 
 
 <!--
