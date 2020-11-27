@@ -1,6 +1,6 @@
 🧑🏻‍💻 iOS Software Engineer  
 🔭 I’m currently working with [DANA](https://dana.id)  
-💬 Experiences in Front-end (Web, cross-platform and Native) and Back-end Development
+💬 Experiences in Front-end (Web, cross-platform and Native) and Back-end Development  
 ☄️ Loves video games, singing, and linguistics  
 📫 [Portfolio](http://kevinyulias.herokuapp.com)  
 💬 [LinkedIn](https://www.linkedin.com/in/kevinyou77/)
