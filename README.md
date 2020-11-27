@@ -1,4 +1,3 @@
-Hi! I am Kevin!  
 🧑🏻‍💻iOS Software Engineer  
 🔭 I’m currently working with [DANA](https://dana.id)  
 ☄️ Loves video games, singing, and linguistics  
