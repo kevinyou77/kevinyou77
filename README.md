@@ -1,8 +1,8 @@
-Hi! I am Kevin!
-🧑🏻‍💻iOS Software Engineer
-🔭 I’m currently working with [DANA](https://dana.id)
-☄️ Loves video games, singing, and linguistics
-📫 [Portfolio](http://kevinyulias.herokuapp.com)
+Hi! I am Kevin!  
+🧑🏻‍💻iOS Software Engineer  
+🔭 I’m currently working with [DANA](https://dana.id)  
+☄️ Loves video games, singing, and linguistics  
+📫 [Portfolio](http://kevinyulias.herokuapp.com)  
 💬 [LinkedIn](https://www.linkedin.com/in/kevinyou77/)
 
 <!--
