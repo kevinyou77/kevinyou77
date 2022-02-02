@@ -1,5 +1,5 @@
-🧑🏻‍💻 iOS Software Engineer  
-🔭 I’m currently working at [DANA](https://dana.id)  
+🧑🏻‍💻 iOS Engineer  
+🔭 I’m currently working at [Gojek](https://www.gojek.com/id-id/)  
 💬 Experiences in Front-end (Web, cross-platform and Native) and Back-end Development  
 ☄️ Loves video games, singing, and linguistics  
 📫 [Portfolio](http://kevinyulias.herokuapp.com)  
